@@ -1,4 +1,4 @@
-package com.ecommerce.domain;
+package com.ecommerce.domain.entity;
 
 public class Item {
   private final int quantity;
