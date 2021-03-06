@@ -12,4 +12,8 @@ public class Item {
   public Product getProduct() {
     return this.product;
   }
+
+  public int getQuantity() {
+    return this.quantity;
+  }
 }
